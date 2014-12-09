@@ -1,0 +1,80 @@
+<?php use Phalcon\Tag; ?>
+
+<?php echo $this->getContent(); ?>
+
+<table width="100%">
+    <tr>
+        <td align="left">
+            <?php echo $this->tag->linkTo(array("rw_users/index", "Go Back")); ?>
+        </td>
+        <td align="right">
+            <?php echo $this->tag->linkTo(array("rw_users/new", "Create ")); ?>
+        </td>
+    </tr>
+</table>
+
+<table class="browse" align="center">
+    <thead>
+        <tr>
+            <th>Usr</th>
+            <th>Usr Of Hash</th>
+            <th>Usr Of Xml Of Url</th>
+            <th>Usr Of Xml Of Login</th>
+            <th>Usr Of Xml Of Password</th>
+            <th>Usr Of Name</th>
+            <th>Usr Of City</th>
+            <th>Usr Of Address</th>
+            <th>Usr Of Email</th>
+            <th>Usr Of Phone</th>
+            <th>Usr Of Contact Of Info</th>
+            <th>Usr Of Comment</th>
+            <th>Usr Of Lang</th>
+            <th>Usr Of Allow Of Ips</th>
+            <th>Usr Of Plan</th>
+            <th>Usr Of Plan Of Paid Of From</th>
+            <th>Usr Of Plan Of Paid Of To</th>
+            <th>Usr Of Additional Of Functions</th>
+         </tr>
+    </thead>
+    <tbody>
+    <?php foreach ($page->items as $rw_user) { ?>
+        <tr>
+            <td><?php echo $rw_user->usr_id ?></td>
+            <td><?php echo $rw_user->usr_hash ?></td>
+            <td><?php echo $rw_user->usr_xml_url ?></td>
+            <td><?php echo $rw_user->usr_xml_login ?></td>
+            <td><?php echo $rw_user->usr_xml_password ?></td>
+            <td><?php echo $rw_user->usr_name ?></td>
+            <td><?php echo $rw_user->usr_city ?></td>
+            <td><?php echo $rw_user->usr_address ?></td>
+            <td><?php echo $rw_user->usr_email ?></td>
+            <td><?php echo $rw_user->usr_phone ?></td>
+            <td><?php echo $rw_user->usr_contact_info ?></td>
+            <td><?php echo $rw_user->usr_comment ?></td>
+            <td><?php echo $rw_user->usr_lang ?></td>
+            <td><?php echo $rw_user->usr_allow_ips ?></td>
+            <td><?php echo $rw_user->usr_plan ?></td>
+            <td><?php echo $rw_user->usr_plan_paid_from ?></td>
+            <td><?php echo $rw_user->usr_plan_paid_to ?></td>
+            <td><?php echo $rw_user->usr_additional_functions ?></td>
+            <td><?php echo $this->tag->linkTo(array("rw_users/edit/" . $rw_user->usr_id, "Edit")); ?></td>
+            <td><?php echo $this->tag->linkTo(array("rw_users/delete/" . $rw_user->usr_id, "Delete")); ?></td>
+        </tr>
+    <?php } ?>
+    </tbody>
+    <tbody>
+        <tr>
+            <td colspan="2" align="right">
+                <table align="center">
+                    <tr>
+                        <td><?php echo $this->tag->linkTo("rw_users/search", "First") ?></td>
+                        <td><?php echo $this->tag->linkTo("rw_users/search?page=" . $page->before, "Previous") ?></td>
+                        <td><?php echo $this->tag->linkTo("rw_users/search?page=" . $page->next, "Next") ?></td>
+                        <td><?php echo $this->tag->linkTo("rw_users/search?page=" . $page->last, "Last") ?></td>
+                        <td><?php echo $page->current, "/", $page->total_pages ?></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>

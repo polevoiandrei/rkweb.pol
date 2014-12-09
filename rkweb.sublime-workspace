@@ -1,0 +1,2949 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_RE",
+				"_REQUEST  (variable)"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"table_",
+				"table_html_start  (variable)"
+			],
+			[
+				"cyr",
+				"convert_cyr_string"
+			],
+			[
+				"svp",
+				"svp_cackle_comments"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"news_",
+				"news_block_interesting"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"topi",
+				"topics-list"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"_R",
+				"_RUBRICS_IDS  (variable)"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"author",
+				"authors_sum"
+			],
+			[
+				"video",
+				"video_block"
+			],
+			[
+				"Rubric",
+				"RubricName"
+			],
+			[
+				"array_",
+				"array_combine"
+			],
+			[
+				"ur",
+				"urldecode"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"textr",
+				"text-decoration"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"backg",
+				"background-color:   (property)"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"Ge",
+				"Georgia"
+			],
+			[
+				"bes",
+				"best-offer-price"
+			],
+			[
+				"be",
+				"best-offer-year"
+			],
+			[
+				"bse",
+				"best-offer-country"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backgdo",
+				"background-color"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"Br",
+				"Browser  (variable)"
+			],
+			[
+				"_C",
+				"_COOKIE  (variable)"
+			],
+			[
+				"new",
+				"new_source_file"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"_PH",
+				"_PHT_CTGS  (variable)"
+			],
+			[
+				"_HT",
+				"_PHT_CTGS  (variable)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"start",
+				"start=  (attribute)"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"правил",
+				"правила"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"content-w",
+				"content-wrapper-first"
+			],
+			[
+				"n",
+				":nth-child(|)"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"disp",
+				"display	display: common-types"
+			],
+			[
+				"positio",
+				"position:   (property)"
+			],
+			[
+				"text-tran",
+				"text-transform:   (property)"
+			],
+			[
+				"heD",
+				"header"
+			],
+			[
+				"w",
+				"device-width"
+			],
+			[
+				"backgro",
+				"background	background-color: name"
+			],
+			[
+				"sou",
+				"source_file"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"resolution",
+				"resolution"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"beck",
+				"background-color"
+			],
+			[
+				"display",
+				"display	display: block"
+			],
+			[
+				"background",
+				"background	background-color: name"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"class",
+				"class=  (attribute)"
+			],
+			[
+				"cas",
+				"case	case …"
+			],
+			[
+				"displa",
+				"display	display: block"
+			],
+			[
+				"for",
+				"for=  (attribute)"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"soundmanag",
+				"soundmanager2"
+			],
+			[
+				"mysql_e",
+				"mysql_escape_string"
+			],
+			[
+				"_t",
+				"_tmp  (variable)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"strpos",
+				"strrpos  (function)"
+			],
+			[
+				"require",
+				"require_once"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\nfunction getRemoteXMLData(uri, body, path, callback) {\n\n	request(\n		{ method: 'GET'\n		, uri: uri\n		, headers:{ 'content-type': 'application/xml'}\n		, body: body\n		, auth: {user : 'tech', 'pass':'9'}\n		, strictSSL: false\n	}\n	, function (error, response, data) {\n		if (error) {\n			console.error('Request Failed to URI:', uri);\n		} \n		callback(error, path, data)\n	}\n	);\n\n}",
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/public/index.php",
+			"settings":
+			{
+				"buffer_size": 2303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/webroot/home/sechenov.pol/www/templates/_prj_pics.html",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/webroot/home/sechenov.pol/www/templates/_prj_pics2.html",
+			"settings":
+			{
+				"buffer_size": 1691,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/webroot/home/sechenov.pol/www/templates/js_project.html",
+			"settings":
+			{
+				"buffer_size": 6639,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/app/config/config.php",
+			"settings":
+			{
+				"buffer_size": 1542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/app/views/rw_users/index.phtml",
+			"settings":
+			{
+				"buffer_size": 4927,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/app/config/loader.php",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/app/library/RKWeb/User.php",
+			"settings":
+			{
+				"buffer_size": 310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/app/library/RKWeb/XMLServer.php",
+			"settings":
+			{
+				"buffer_size": 4207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/app/vendors/MegaCurl/MegaCurl.php",
+			"settings":
+			{
+				"buffer_size": 7073,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"htmk",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"TODO",
+				"Show TODOs: Open files only"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"premo",
+				"Package Control: Remove Package"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"show",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: foreach …"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 414.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/webroot/home/sechenov.pol/www/templates/_prc_pics.html",
+		"/C/webroot/home/sechenov.pol/www/templates/_prc_pics2.html",
+		"/C/OpenServer/domains/rkweb.pol/www/app/models/RwUsers.php",
+		"/C/OpenServer/domains/rkweb.pol/www/app/controllers/RwUsersController.php",
+		"/C/OpenServer/domains/rkweb.pol/www/app/config/services.php",
+		"/C/OpenServer/domains/rkweb.pol/www/app/controllers/IndexController.php",
+		"/C/OpenServer/domains/rkweb.pol/www/app/views/index/index.volt",
+		"/C/OpenServer/domains/rkweb.pol/www/app/vendors/MegaCurl/MegaCurl.php",
+		"/C/OpenServer/domains/rkweb.pol/www/app/controllers/UsersController.php",
+		"/C/OpenServer/domains/rkweb.pol/www/public/.htaccess",
+		"/C/OpenServer/modules/phalcon-tools/phalcon.bat",
+		"/C/OpenServer/modules/php/PHP-5.5/php.ini",
+		"/C/OpenServer/domains/rkweb.pol/www/index.html",
+		"/C/OpenServer/domains/rkweb.pol/www/.htaccess",
+		"/C/OpenServer/domains/rkweb.pol/www/_tmp/index.php",
+		"/C/webroot/home/eurowine.pol/www/prices/index.php",
+		"/C/webroot/home/eurowine.pol/www/1c_codes_not_in_db_051214.txt",
+		"/C/nodejs/prices.xml",
+		"/C/nodejs/menu.xml",
+		"/C/webroot/home/nodejs.pol/www/index.html",
+		"/C/nodejs/node_w_db.js",
+		"/C/nodejs/showmenu.js",
+		"/C/nodejs/html/rk_menu_embed.js",
+		"/C/nodejs/html/main.html",
+		"/C/nodejs/html/node_211014.html",
+		"/C/nodejs/nodejs.sublime-project",
+		"/C/nodejs/py_examples/XML-createOrder.py",
+		"/C/nodejs/py_examples/XML-saveOrder.py",
+		"/C/nodejs/py_examples/XML-getMenuItems.py",
+		"/C/nodejs/Restest.xml",
+		"/C/Users/POL/Downloads/XML-Schemes/resGetOrderMenu.xsd",
+		"/C/nodejs/img2.jpg",
+		"/C/nodejs/img.jpg",
+		"/C/nodejs/img - Copy.jpg",
+		"/C/Users/POL/Downloads/site_link/index.html",
+		"/C/nodejs/node.js",
+		"/C/nodejs/html/node.html",
+		"/C/webroot/home/svpressa.pol/www/bcrypt/bcrypt-encoder.php",
+		"/C/webroot/home/svpressa.pol/www/template/n.html",
+		"/C/webroot/home/svpressa.pol/www/poll/poll_config.php",
+		"/C/webroot/home/svpressa.pol/www/poll/async.php",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_113.xml",
+		"/C/webroot/home/svm.pol/www/templates/footer.html",
+		"/C/webroot/home/svm.pol/www/templates/footer_menu.html",
+		"/C/webroot/home/svm.pol/www/templates/header.html",
+		"/C/webroot/home/svm.pol/www/templates/photo.html",
+		"/C/webroot/home/svm.pol/www/templates/text.html",
+		"/C/webroot/home/svm.pol/www/templates/main.html",
+		"/C/webroot/home/svpressa.pol/www/rss/index.php",
+		"/C/webroot/home/svpressa.pol/www/index.php",
+		"/C/webroot/home/svpressa.pol/www/gisrss/index.php",
+		"/C/Users/POL/Downloads/lenta_rss.xml",
+		"/C/webroot/home/svpressa.pol/www/ramblerrss2/index.php",
+		"/C/webroot/home/svpressa.pol/www/ramblerrss/index.php",
+		"/C/webroot/home/svpressa.pol/www/adm/edit_main.php",
+		"/C/webroot/home/svpressa.pol/www/adm/edit_action.php",
+		"/C/webroot/home/svpressa.pol/www/ramblerrss/index_old_YN_format.php",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_107.xml",
+		"/C/webroot/home/svpressa.pol/www/ramblerrss/.htaccess",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_112.xml",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_111.xml",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_108.xml",
+		"/C/webroot/home/svpressa.pol/www/template/right-grey.html",
+		"/C/webroot/home/svpressa.pol/www/auto-quiz-test/index.php",
+		"/C/webroot/home/svpressa.pol/www/template/auto-quiz-right-grey.html",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_116.xml",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_115.xml",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_114.xml",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_110.xml",
+		"/C/webroot/home/svpressa.pol/www/poll/xml/poll_109.xml",
+		"/C/webroot/home/svpressa.pol/www/poll/index.php",
+		"/C/webroot/home/svpressa.pol/www/poll/b.php",
+		"/C/Users/POL/Downloads/phpESP-2.1.4/phpESP/docs/INSTALL",
+		"/C/webroot/home/svpressa.pol/www/template/r.popul_yug.html",
+		"/C/webroot/home/marinadevyatova.pol/www/objects/frontend/marinadevyatova/news.obj.php",
+		"/C/webroot/home/fbimusic.pol/content/inc/cls/ress/phpbrowscap/Browscap.php",
+		"/C/webroot/home/marinadevyatova.pol/www/ress_images.php",
+		"/C/webroot/home/atv.pol/www/moko/sites/atv/views/top_products.php",
+		"/C/Google Drive/Worktools/htpasswd/.htpasswd",
+		"/C/Users/POL/AppData/Local/Temp/F3TC8E8.tmp/UploadHandler.php",
+		"/C/webroot/home/svpressa.pol/www/social-manager/config.rb",
+		"/C/webroot/home/svpressa.pol/www/social-manager/index.html",
+		"/C/webroot/home/svpressa.pol/www/social-manager/js/social.js",
+		"/C/webroot/home/svpressa.pol/www/social-manager/ajax_get_data.php",
+		"/C/webroot/home/svpressa.pol/www/newrss/index.php",
+		"/C/webroot/home/marinadevyatova.pol/www/objects/frontend/marinadevyatova/text.obj.php",
+		"/C/webroot/home/startprize.pol/site/current/Modules/StartSearch.class.php",
+		"/C/Users/POL/AppData/Local/Temp/Rar$DIa0.634/config.req.php",
+		"/C/Users/POL/AppData/Local/Temp/Rar$DIa0.531/init.req.php",
+		"/C/Users/POL/AppData/Local/Temp/Rar$DIa0.729/config.online.php",
+		"/C/Users/POL/AppData/Local/Temp/Rar$DIa0.879/config.local.php",
+		"/C/webroot/home/sechenov.pol/www/xcms/objects/team.obj.php",
+		"/C/webroot/home/atv.pol/www/moko/sites/atv/views/footer.php",
+		"/C/Users/POL/AppData/Local/Temp/F3T32E8.tmp/.htaccess",
+		"/C/webroot/home/sokb-vektor.pol/www/xcms/jss/tinymce4/plugins/moxiemanager/install/index.php",
+		"/C/webroot/home/sokb-vektor.pol/www/xcms/jss/tinymce4/plugins/moxiemanager/config.php",
+		"/C/Users/POL/AppData/Local/Temp/F3TC8E7.tmp/upload.php",
+		"/C/Users/POL/Downloads/yupe-0.7/yupe/public/index.php",
+		"/C/Users/POL/Downloads/yupe-0.7/yupe/protected/config/main.php",
+		"/C/Users/POL/Downloads/yupe-0.7/yupe/protected/modules/blog/models/Post.php",
+		"/C/webroot/home/svpressa.pol/www/template/r.fian.html",
+		"/C/webroot/home/svpressa.pol/www/template/menu.html",
+		"/C/webroot/home/svpressa.pol/www/template/head.html",
+		"/C/webroot/home/svpressa.pol/www/js/addcopylink.js",
+		"/C/webroot/home/svpressa.pol/www/template/foot.html",
+		"/C/webroot/home/svpressa.pol/www/template/cackle.html",
+		"/C/webroot/home/svpressa.pol/www/inc/cls/xcms/xdb.cls.php",
+		"/C/webroot/home/sokb-vektor.pol/www/_html/index.html",
+		"/C/webroot/home/svpressa.pol/www/issue/news.php",
+		"/C/webroot/home/svpressa.pol/www/_fastcache/db/connect.php",
+		"/C/webroot/home/svpressa.pol/www/adm/edit_cat.php",
+		"/C/webroot/home/svpressa.pol/www/adm/menu.html",
+		"/C/webroot/home/svpressa.pol/www/adm/get_tags.php",
+		"/C/webroot/home/svpressa.pol/www/bcrypt/bcrypt.inc.php",
+		"/C/webroot/home/svpressa.pol/svpressa.ru.admnew.passwd",
+		"/C/webroot/home/sokb-vektor.pol/vektor.sublime-workspace",
+		"/C/webroot/home/sokb-vektor.pol/vektor.sublime-project",
+		"/C/Users/POL/AppData/Local/Temp/Rar$DIa0.398/ru.js",
+		"/C/Users/POL/Downloads/addcopylink.js",
+		"/C/Users/POL/AppData/Local/Temp/Rar$DRa0.184/web-starter-kit-0.2.0-beta/app/styles/main.css",
+		"/C/Users/POL/AppData/Local/Temp/Rar$DRa0.796/web-starter-kit-0.2.0-beta/app/styles/h5bp.css",
+		"/C/webroot/home/svpressa.pol/www/template/r.editors-picks.html",
+		"/C/webroot/home/svpressa.pol/www/template/blogi_new.html",
+		"/C/webroot/home/svpressa.pol/www/template/theme_new_rating.html",
+		"/C/webroot/home/svpressa.pol/www/template/blogi.html",
+		"/C/webroot/home/svpressa.pol/www/template/amorda.php",
+		"/C/webroot/home/svpressa.pol/www/template/more_articles_popular_4_in_a_row.html",
+		"/C/webroot/home/svpressa.pol/www/template/more_articles_top_commented.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"src=\"{$DIR_XCMS}jss/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"photo_slid",
+			"CategPath",
+			"Ident",
+			"_XML",
+			"$p",
+			"p",
+			"_XML",
+			"$_[",
+			"url",
+			"_XML",
+			"30",
+			"OPT",
+			"user",
+			"robot",
+			"wand",
+			"imag",
+			"phal",
+			"webroo",
+			"php",
+			"ItemCode",
+			"Code",
+			"/100",
+			"/1000",
+			"order save",
+			"DishCode",
+			"txt_response",
+			"request menu",
+			"request",
+			"id",
+			"visitID",
+			"sum",
+			"DishCode",
+			"fs.re",
+			"1333",
+			"1337",
+			"app.",
+			"moment",
+			"request",
+			"th",
+			"CategPath",
+			"Data",
+			"RKmenu",
+			"uri",
+			"file",
+			"path+filename",
+			"xml_",
+			"put_data",
+			"large",
+			"visit",
+			"visitIВ",
+			"visitId",
+			"Code",
+			"45",
+			"Price",
+			"Name=\"",
+			"lunch",
+			"lan",
+			"lunch",
+			"price",
+			"Alkohol",
+			"app.use",
+			"'sg",
+			"гомзи",
+			"\"></iframe> ",
+			"\"></iframe>",
+			"newOrder",
+			"div",
+			"moment",
+			"3000",
+			"типо",
+			"PATH_P",
+			"enclosure",
+			"author",
+			"link",
+			"pubDate",
+			"not_in_ratings",
+			"не учи",
+			"top_id",
+			"top_i",
+			"tags",
+			"poll",
+			"98875,98782,98725",
+			"$doAutoUpdate",
+			"browscap",
+			"text2_r",
+			"edit_action",
+			"готово",
+			"готов",
+			"top_id",
+			"уйд",
+			"news",
+			"cut_from",
+			"сге_акщь",
+			"ролл-ин",
+			"r2_new",
+			"30025",
+			"turbo",
+			"substr",
+			"str",
+			"addcopy",
+			".js",
+			"addinfotocopytext",
+			"cack",
+			"$_SESSION['amode']",
+			"limit",
+			"$q",
+			"svp_cackle_comments",
+			"cent",
+			"svpressa.ru",
+			"http://www.svpressa",
+			".xm",
+			"ючь",
+			"ne.xm",
+			"newsючь",
+			"news",
+			"90133,90050,90134",
+			"blog",
+			"main-news-block",
+			"sparkli",
+			"social",
+			"smi2pai",
+			"redactor@svpressa-yug.com",
+			"photo@svpressa.ru",
+			"info@svpressa.ru",
+			"release@svpressa.ru",
+			"b",
+			"Федеральная служба",
+			"+7 (495) "
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"__c('files')->",
+			"FROM mcp_users",
+			"$allowed_tags='<h2>",
+			"=\"{$DIR_XCMS}css/",
+			"src=\"{$DIR_XCMS}css/",
+			"src=\"{$DIR_XCMS}jss/",
+			"strana",
+			"/fonts/",
+			"/i/",
+			"../i/",
+			"content-wrapper",
+			"768",
+			"hm=768",
+			"htmlspecialchars(stripslashes($_['trk_name']))",
+			"<br>",
+			"<br><br>",
+			"<br />",
+			"    <li><a href=\"news-list.html\">Новости</a></li>\n        <li class=\"bullet\">&bull;</li>\n    <li><a href=\"#\">События</a></li>\n        <li class=\"bullet\">&bull;</li>\n    <li><a href=\"photo.html\">Фото</a></li>\n        <li class=\"bullet\">&bull;</li>\n    <li><a href=\"video.html\">Видео</a></li>\n        <li class=\"bullet\">&bull;</li>\n    <li><a href=\"music.html\">Музыка</a></li>\n        <li class=\"bullet\">&bull;</li>\n    <li><a href=\"press-list.html\">Пресса</a></li>\n        <li class=\"bullet\">&bull;</li>\n    <li><a href=\"#\">Обо мне</a></li>\n        <li class=\"bullet\">&bull;</li>\n    <li><a href=\"#\">Фан-клуб</a></li>",
+			"    <li><a href=\"news-list.html\">Новости</a></li>\n    <li><a href=\"#\">События</a></li>\n    <li><a href=\"photo.html\">Фото</a></li>\n    <li><a href=\"video.html\">Видео</a></li>\n    <li><a href=\"music.html\">Музыка</a></li>\n    <li><a href=\"press-list.html\">Пресса</a></li>\n    <li><a href=\"#\">Обо мне</a></li>\n    <li><a href=\"#\">Фан-клуб</a></li>",
+			".album-tracks",
+			"ol.",
+			"../i/",
+			"header-",
+			"$orange",
+			"$cont-w",
+			"$wrap-w",
+			"$max-w",
+			"$cont-w",
+			"show-mobile",
+			"#photo",
+			"p/news_pic.jpg?hidemobile=320",
+			"p/news_pic.jpg?hidemobile-320",
+			"orange footer-title",
+			"+7&nbsp;916 &nbsp;",
+			"#header",
+			"#nav",
+			"#nav_top",
+			".",
+			"div#nav ul",
+			"url('../i/",
+			"$cookie_lifetime",
+			"604800",
+			"$RESS_CACHE_PATH",
+			"$_RESS_RESOLUTIONS",
+			"_COOKIE['ress_resolution']",
+			"<p class=\"im-stock{if $a.cat_special_small} im-stock-small{/if}\">",
+			"",
+			"href=\"{$PATH_ROOT}",
+			"href=\"",
+			"href=\"/mp3/2.mp3\"",
+			"/video_index/",
+			"/video_show/",
+			"/photo_show_big/",
+			"/photo_index/",
+			"/photo_list/",
+			"/news_show/",
+			"/news_list/",
+			"/news_show/",
+			"news_show.html",
+			"../i/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								178
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/public/index.php",
+					"settings":
+					{
+						"buffer_size": 2303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1104,
+								1104
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 48.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/webroot/home/sechenov.pol/www/templates/_prj_pics.html",
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								534,
+								534
+							],
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/webroot/home/sechenov.pol/www/templates/_prj_pics2.html",
+					"settings":
+					{
+						"buffer_size": 1691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								540,
+								540
+							],
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/webroot/home/sechenov.pol/www/templates/js_project.html",
+					"settings":
+					{
+						"buffer_size": 6639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								910
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 44.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "www/app/config/config.php",
+					"settings":
+					{
+						"buffer_size": 1542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								455
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "www/app/views/rw_users/index.phtml",
+					"settings":
+					{
+						"buffer_size": 4927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "www/app/config/loader.php",
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "www/app/library/RKWeb/User.php",
+					"settings":
+					{
+						"buffer_size": 310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								153
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "www/app/library/RKWeb/XMLServer.php",
+					"settings":
+					{
+						"buffer_size": 4207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3260,
+								3260
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "www/app/vendors/MegaCurl/MegaCurl.php",
+					"settings":
+					{
+						"buffer_size": 7073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								913,
+								913
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 263.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"curl",
+				"app/vendors/MegaCurl/MegaCurl.php"
+			],
+			[
+				"megac",
+				"app/vendors/MegaCurl/MegaCurl.php"
+			],
+			[
+				"loader.php",
+				"app/config/loader.php"
+			],
+			[
+				"viewin",
+				"app/views/index/index.volt"
+			],
+			[
+				"indexco",
+				"app/controllers/IndexController.php"
+			],
+			[
+				"config.",
+				"app/config/config.php"
+			],
+			[
+				"nod",
+				"node.html"
+			],
+			[
+				"n",
+				"template/n.html"
+			],
+			[
+				"n.",
+				"template/n.html"
+			],
+			[
+				"right",
+				"template/right-grey.html"
+			],
+			[
+				"r.yug",
+				"template/r.popul_yug.html"
+			],
+			[
+				"editactio",
+				"adm/edit_action.php"
+			],
+			[
+				"editma",
+				"adm/edit_main.php"
+			],
+			[
+				"foot",
+				"template/foot.html"
+			],
+			[
+				"r.tur",
+				"template/r.turbo.html"
+			],
+			[
+				"h",
+				"template/head.html"
+			],
+			[
+				"menu",
+				"template/menu.html"
+			],
+			[
+				"head",
+				"template/head.html"
+			],
+			[
+				"cackle",
+				"template/cackle.html"
+			],
+			[
+				"r.editor",
+				"template/r.editors-picks.html"
+			],
+			[
+				"r.top_c",
+				"template/r.top_commented.html"
+			],
+			[
+				"r.popul",
+				"template/r.popul_yug.html"
+			],
+			[
+				"r.more",
+				"template/r.more_by_author.html"
+			],
+			[
+				"r.inter",
+				"template/r.interesting.html"
+			],
+			[
+				"more_ar",
+				"template/more_articles_top_commented.html"
+			],
+			[
+				"more",
+				"template/more_articles_popular_4_in_a_row.html"
+			],
+			[
+				"blogi",
+				"template/blogi_new.html"
+			],
+			[
+				"amorda",
+				"template/amorda.php"
+			],
+			[
+				"theme",
+				"template/theme_new_rating.html"
+			],
+			[
+				"r.soci",
+				"template/r.social.html"
+			],
+			[
+				"40095",
+				"template/r.40095.html"
+			],
+			[
+				"r.30",
+				"template/r.30025.html"
+			],
+			[
+				"r.smi2",
+				"template/r.smi2paid.html"
+			],
+			[
+				"popul_",
+				"template/r.popul_yug.html"
+			],
+			[
+				"the",
+				"template/theme_new_rating.html"
+			],
+			[
+				"r.pop",
+				"template/r.popul_yug.html"
+			],
+			[
+				"index",
+				"themes/index.php"
+			],
+			[
+				"amord",
+				"template/amorda.html"
+			],
+			[
+				"vv.php",
+				"template/vv.php"
+			],
+			[
+				"video",
+				"issue/video.php"
+			],
+			[
+				"photo",
+				"issue/photo.php"
+			],
+			[
+				"photo-",
+				"template/photo-video.html"
+			],
+			[
+				"v.",
+				"template/v.html"
+			],
+			[
+				"p.",
+				"template/p.html"
+			],
+			[
+				"foo",
+				"template/foot.html"
+			],
+			[
+				"r.opi",
+				"template/r.opinions.html"
+			],
+			[
+				"htacc",
+				"adm/.htaccess"
+			],
+			[
+				"r.",
+				"template/r.abcr_.html"
+			],
+			[
+				"connec",
+				"adm/connect_.php"
+			],
+			[
+				"metatags",
+				"template/metatags.html"
+			],
+			[
+				"news",
+				"issue/news.php"
+			],
+			[
+				"htacce",
+				"adm/.htaccess"
+			],
+			[
+				"edit_ca",
+				"adm/edit_cat.php"
+			],
+			[
+				"yug",
+				"template/r.popul_yug.html"
+			],
+			[
+				"edit_main",
+				"adm/edit_main.php"
+			],
+			[
+				"connect",
+				"adm/_pre_new_rights/connect_.php"
+			],
+			[
+				"edit_mai",
+				"adm/edit_main.php"
+			],
+			[
+				"coun",
+				"template/countres-top.html"
+			],
+			[
+				"blog",
+				"template/blogi.html"
+			],
+			[
+				"cunt",
+				"template/countres-top.html"
+			],
+			[
+				"alln",
+				"themes/allnews.php"
+			],
+			[
+				"countes",
+				"template/countres-top.html"
+			],
+			[
+				"popul_yug",
+				"template/r.popul_yug.html"
+			],
+			[
+				"news.",
+				"issue/news.php"
+			],
+			[
+				"photo-v",
+				"template/photo-video.html"
+			],
+			[
+				"r.fin",
+				"template/r.finam.html"
+			],
+			[
+				"countres",
+				"template/countres-top.html"
+			],
+			[
+				"new",
+				"issue/news.php"
+			],
+			[
+				"cackl",
+				"template/cackle.html"
+			],
+			[
+				"topcomme",
+				"template/r.top_commented.html"
+			],
+			[
+				"morecomm",
+				"template/more_articles_top_commented.html"
+			],
+			[
+				"r.pho",
+				"template/r.photo.html"
+			],
+			[
+				"r.video",
+				"template/r.video.html"
+			],
+			[
+				"morda",
+				"template/morda_video.html"
+			],
+			[
+				"onli",
+				"template/online.html"
+			],
+			[
+				"onlin",
+				"template/onlines.html"
+			],
+			[
+				"promoblo",
+				"template/r.promoblocks_1.html"
+			],
+			[
+				"r.promo",
+				"template/r.promoblocks.html"
+			],
+			[
+				"cack",
+				"template/cackle.html"
+			],
+			[
+				"promo",
+				"template/r.promoblocks.html"
+			],
+			[
+				"4",
+				"template/more_articles_popular_4_in_a_row.html"
+			],
+			[
+				"r.news",
+				"template/r.news5.html"
+			],
+			[
+				"conne",
+				"adm/connect_.php"
+			],
+			[
+				"_m",
+				"adm/_morda.php"
+			],
+			[
+				"thwe",
+				"themes/news_new_rating.php"
+			],
+			[
+				"r.social",
+				"template/r.social.html"
+			],
+			[
+				"r.calen",
+				"template/r.calen.html"
+			],
+			[
+				"r.foda",
+				"template/r.foday.html"
+			],
+			[
+				"r.top_commented",
+				"template/r.top_commented.html"
+			],
+			[
+				"r.edit",
+				"template/r.editors-picks.html"
+			],
+			[
+				"right-",
+				"template/right-grey.html"
+			],
+			[
+				"conn",
+				"adm/connect_.php"
+			],
+			[
+				"eight",
+				"template/right-grey.html"
+			],
+			[
+				"r.gnez",
+				"template/r.gnezdo.html"
+			],
+			[
+				"smi2pa",
+				"template/r.smi2paid.html"
+			],
+			[
+				"r.dire",
+				"template/r.direktadvert.html"
+			],
+			[
+				"r.raps",
+				"template/r.rapsi.html"
+			],
+			[
+				"r.opin",
+				"template/r.opinions.html"
+			],
+			[
+				"r.edito",
+				"template/r.editors-picks.html"
+			],
+			[
+				"r.smi",
+				"template/r.smi2r.html"
+			],
+			[
+				"editor",
+				"template/r.editors-picks.html"
+			],
+			[
+				"popula",
+				"template/more_articles_popular_4_in_a_row.html"
+			],
+			[
+				"themes",
+				"themes/news.php"
+			],
+			[
+				"amor",
+				"template/amorda.php"
+			],
+			[
+				"more_new",
+				"template/more_news.html"
+			],
+			[
+				"more_a",
+				"template/more_articles_popular_4_in_a_row.html"
+			],
+			[
+				"more_ae",
+				"template/more_articles_author.html"
+			],
+			[
+				"top_com",
+				"template/r.top_commented.html"
+			],
+			[
+				"top_comm",
+				"template/more_articles_top_commented.html"
+			],
+			[
+				"righ",
+				"template/right-grey.html"
+			],
+			[
+				"gre",
+				"template/right-grey.html"
+			],
+			[
+				"p.ht",
+				"template/p.html"
+			],
+			[
+				"r.euro",
+				"template/r.euros.html"
+			],
+			[
+				"r.sochi",
+				"template/r.sochi2014.html"
+			],
+			[
+				"raspis",
+				"template/raspis.html"
+			],
+			[
+				"r.eu",
+				"template/r.euros.html"
+			],
+			[
+				"",
+				"template/n.html"
+			],
+			[
+				"r.top",
+				"template/r.top_commented.html"
+			],
+			[
+				"more_arc",
+				"template/more_articles_top_commented.html"
+			],
+			[
+				"r.sm",
+				"template/r.smi2r.html"
+			],
+			[
+				"commen",
+				"template/more_articles_top_commented.html"
+			],
+			[
+				"r.inte",
+				"template/r.interesting.html"
+			],
+			[
+				"edit_m",
+				"adm/edit_main.php"
+			],
+			[
+				"top_co",
+				"template/r.top_commented.html"
+			],
+			[
+				"r.edi",
+				"template/r.editors-picks.html"
+			],
+			[
+				"intere",
+				"template/r.interesting.html"
+			],
+			[
+				"top_c",
+				"template/more_articles_top_commented.html"
+			],
+			[
+				"theme_new_rating",
+				"template/theme_new_rating.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"life",
+				"/C/webroot/home/its-lifeatm.pol/lifeatm.sublime-project"
+			],
+			[
+				"start",
+				"/C/webroot/home/startprize.pol/startprize.sublime-project"
+			],
+			[
+				"oris",
+				"/C/webroot/home/oris.pol/oris.sublime-project"
+			],
+			[
+				"svpre",
+				"/C/webroot/home/svpressa.pol/svpressa.sublime-project"
+			],
+			[
+				"newte",
+				"/C/webroot/home/newtell.pol/newtell.sublime-project"
+			],
+			[
+				"fbimsu",
+				"/C/webroot/home/fbimusic.pol/fbimusic.sublime-project"
+			],
+			[
+				"yug",
+				"/C/webroot/home/svpressa.pol/yug/svpressa_yug.sublime-project"
+			],
+			[
+				"terra",
+				"/C/webroot/home/terrawine.pol/terrawine.sublime-project"
+			],
+			[
+				"vekt",
+				"/C/webroot/home/sokb-vektor.pol/vektor.sublime-project"
+			],
+			[
+				"мул",
+				"/C/webroot/home/sokb-vektor.pol/мулещк.sublime-project"
+			],
+			[
+				"svpn",
+				"/C/webroot/home/svpnew.pol/svpnew.sublime-project"
+			],
+			[
+				"forr",
+				"/C/webroot/home/forrooms.pol/forrooms.sublime-project"
+			],
+			[
+				"svm",
+				"/C/webroot/home/svm.pol/svmkupe.sublime-project"
+			],
+			[
+				"svmk",
+				"/C/webroot/home/svm.pol/svmkupe.sublime-project"
+			],
+			[
+				"tmr",
+				"/C/webroot/home/tmr.pol/tmr.sublime-project"
+			],
+			[
+				"falcon",
+				"/C/webroot/home/falconeye.pol/falconeye.sublime-project"
+			],
+			[
+				"terr",
+				"/C/webroot/home/terrawine.pol/terrawine.sublime-project"
+			],
+			[
+				"eurow",
+				"/C/webroot/home/eurowine.pol/eurowine.sublime-project"
+			],
+			[
+				"eurowi",
+				"/C/webroot/home/eurowine.pol/eurowine.sublime-project"
+			],
+			[
+				"eurowin",
+				"/C/webroot/home/eurowine.pol/eurowine.sublime-project"
+			],
+			[
+				"atv",
+				"/C/webroot/home/atv.pol/a-tv.sublime-project"
+			],
+			[
+				"falco",
+				"/C/webroot/home/falconeye.pol/falconeye.sublime-project"
+			],
+			[
+				"svpres",
+				"/C/webroot/home/svpressa.pol/svpressa.sublime-project"
+			],
+			[
+				"",
+				"/C/webroot/home/svpressa.pol/yug/svpressa_yug.sublime-project"
+			],
+			[
+				"falc",
+				"/C/webroot/home/falconeye.pol/falconeye.sublime-project"
+			],
+			[
+				"obla",
+				"/C/webroot/home/its-oblako.pol/its-oblako.sublime-project"
+			],
+			[
+				"werbs",
+				"/C/webroot/home/websquad.pol/websquad.sublime-project"
+			],
+			[
+				"webs",
+				"/C/webroot/home/websquad.pol/websquad.sublime-project"
+			],
+			[
+				"websq",
+				"/C/webroot/home/websquad.pol/websquad.sublime-project"
+			],
+			[
+				"e",
+				"/C/webroot/home/eurowine.pol/eurowine.sublime-project"
+			],
+			[
+				"new",
+				"/C/webroot/home/newtell.pol/newtell.sublime-project"
+			],
+			[
+				"newt",
+				"/C/webroot/home/newtell.pol/newtell.sublime-project"
+			],
+			[
+				"svp",
+				"/C/webroot/home/svpressa.pol/svpressa.sublime-project"
+			],
+			[
+				"newtell",
+				"/C/webroot/home/newtell.pol/newtell.sublime-project"
+			],
+			[
+				"svpress",
+				"/C/webroot/home/svpressa.pol/svpressa.sublime-project"
+			],
+			[
+				"euro",
+				"/C/webroot/home/eurowine.pol/eurowine.sublime-project"
+			],
+			[
+				"eurowine",
+				"/C/webroot/home/eurowine.pol/eurowine.sublime-project"
+			],
+			[
+				"sechen",
+				"/C/webroot/home/sechenov.pol/sechenov.sublime-project"
+			],
+			[
+				"sec",
+				"/C/webroot/home/sechenov.pol/sechenov.sublime-project"
+			],
+			[
+				"tellme",
+				"/C/webroot/home/its-tellme.pol/its-tellme.sublime-project"
+			],
+			[
+				"musica",
+				"/C/webroot/home/musicanketa.pol/musicanketa.sublime-project"
+			],
+			[
+				"music",
+				"/C/webroot/home/musicanketa.pol/musicanketa.sublime-project"
+			],
+			[
+				"sech",
+				"/C/webroot/home/sechenov.pol/sechenov.sublime-project"
+			],
+			[
+				"its",
+				"/C/webroot/home/its-green.pol/its-promo.sublime-project"
+			],
+			[
+				"aso",
+				"/C/webroot/home/alehno.pol/alehno.sublime-project"
+			],
+			[
+				"foot",
+				"/C/webroot/home/falconeye.pol/falconeye.sublime-project"
+			],
+			[
+				"moss",
+				"/C/webroot/home/mossumka.pol/mossumka.sublime-project"
+			],
+			[
+				"musi",
+				"/C/webroot/home/musicanketa.pol/musicanketa.sublime-project"
+			],
+			[
+				"a",
+				"/C/webroot/home/atv.pol/a-tv.sublime-project"
+			],
+			[
+				"at",
+				"/C/webroot/home/atv.pol/a-tv.sublime-project"
+			],
+			[
+				"star",
+				"/C/webroot/home/startprize.pol/startprize.sublime-project"
+			],
+			[
+				"a-",
+				"/C/webroot/home/atv.pol/a-tv.sublime-project"
+			],
+			[
+				"kuh",
+				"/C/webroot/home/kuhina.pol/kuhina.sublime-project"
+			],
+			[
+				"kuhi",
+				"/C/webroot/home/kuhina.pol/kuhina.sublime-project"
+			],
+			[
+				"a-t",
+				"/C/webroot/home/atv.pol/a-tv.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

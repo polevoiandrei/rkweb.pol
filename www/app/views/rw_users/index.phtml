@@ -1,0 +1,166 @@
+
+<?php echo $this->getContent() ?>
+
+<div align="right">
+    <?php echo $this->tag->linkTo(array("rw_users/new", "Create rw_users")) ?>
+</div>
+
+<?php echo $this->tag->form(array("rw_users/search", "autocomplete" => "off")) ?>
+
+<div align="center">
+    <h1>Search rw_users</h1>
+</div>
+
+<table>
+    <tr>
+        <td align="right">
+            <label for="usr_id">Usr</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_id", "type" => "number")) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_hash">Usr Of Hash</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_hash", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_xml_url">Usr Of Xml Of Url</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_xml_url", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_xml_login">Usr Of Xml Of Login</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_xml_login", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_xml_password">Usr Of Xml Of Password</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_xml_password", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_name">Usr Of Name</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_name", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_city">Usr Of City</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_city", "type" => "number")) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_address">Usr Of Address</label>
+        </td>
+        <td align="left">
+                <?php echo $this->tag->textField(array("usr_address", "type" => "date")) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_email">Usr Of Email</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_email", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_phone">Usr Of Phone</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_phone", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_contact_info">Usr Of Contact Of Info</label>
+        </td>
+        <td align="left">
+                <?php echo $this->tag->textField(array("usr_contact_info", "type" => "date")) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_comment">Usr Of Comment</label>
+        </td>
+        <td align="left">
+                <?php echo $this->tag->textField(array("usr_comment", "type" => "date")) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_lang">Usr Of Lang</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_lang", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_allow_ips">Usr Of Allow Of Ips</label>
+        </td>
+        <td align="left">
+                <?php echo $this->tag->textField(array("usr_allow_ips", "type" => "date")) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_plan">Usr Of Plan</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_plan", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_plan_paid_from">Usr Of Plan Of Paid Of From</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_plan_paid_from", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_plan_paid_to">Usr Of Plan Of Paid Of To</label>
+        </td>
+        <td align="left">
+            <?php echo $this->tag->textField(array("usr_plan_paid_to", "size" => 30)) ?>
+        </td>
+    </tr>
+    <tr>
+        <td align="right">
+            <label for="usr_additional_functions">Usr Of Additional Of Functions</label>
+        </td>
+        <td align="left">
+                <?php echo $this->tag->textField(array("usr_additional_functions", "type" => "date")) ?>
+        </td>
+    </tr>
+
+    <tr>
+        <td></td>
+        <td><?php echo $this->tag->submitButton("Search") ?></td>
+    </tr>
+</table>
+
+</form>
